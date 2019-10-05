@@ -6,7 +6,7 @@
 #                                                                                                        #
 # Author:                         Rômulo Silva                                                           #
 # Date Developer:                 11-09-2019                                                             #
-# Version:                        1.2                                                                    #
+# Version:                        1.3                                                                    #
 #                                                                                                        #
 #  Este Script tem a finalidade de ficar checando de 1 em 1 segundo o arquivo /var/log/syslog em         #
 #  busca de erros do sistema mediaproxy-relay.                                                           #
